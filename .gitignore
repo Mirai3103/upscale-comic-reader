@@ -1,0 +1,10 @@
+# deps
+node_modules/
+realcugan-ncnn-vulkan.exe
+models-nose/
+models-pro/
+models-se/
+build/
+vcomp140.dll
+bun.lock
+data.db
